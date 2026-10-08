@@ -1,0 +1,13 @@
+{
+  "itemGroup.createastronautics": "Example Mod Tab",
+  "block.createastronautics.example_block": "Example Block",
+  "item.createastronautics.example_item": "Example Item",
+
+  "createastronautics.configuration.title": "Create Astronautics Configs",
+  "createastronautics.configuration.section.createastronautics.common.toml": "Create Astronautics Configs",
+  "createastronautics.configuration.section.createastronautics.common.toml.title": "Create Astronautics Configs",
+  "createastronautics.configuration.items": "Item List",
+  "createastronautics.configuration.logDirtBlock": "Log Dirt Block",
+  "createastronautics.configuration.magicNumberIntroduction": "Magic Number Text",
+  "createastronautics.configuration.magicNumber": "Magic Number"
+}
